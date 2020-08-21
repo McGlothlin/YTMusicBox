@@ -1,8 +1,7 @@
-package com.example.ytmusicbox
+package com.mcglothlin.ytmusicbox
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import android.app.DownloadManager
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
